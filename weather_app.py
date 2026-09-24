@@ -1,13 +1,4 @@
-"""
-============================================
-; Title: Assignment 11.1
-; Author: Dawood Hadi
-; Date: 19 November 2025
-; Modified By: Dawood Hadi
-; Description: For my final project I crafted an application that interacts with a webservice to fetch information
-on the weather in any part of the United States, and translates the temperatures into Fahrenheit, Celsius, and Kelvin.
-;===========================================
-"""
+"""Command-line weather lookup using the OpenWeather API."""
 
 from __future__ import annotations
 
