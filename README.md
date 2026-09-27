@@ -42,6 +42,8 @@ python weather_app.py
 
 ## Sample Output
 
+![Python Weather Lookup terminal screenshot](assets/weather-application-screenshot.png)
+
 ```text
 ======================================================================
 Weather for: Omaha, Nebraska, US
